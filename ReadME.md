@@ -51,7 +51,7 @@
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at jdinh@gmail.com. You can find more of my work at (https://github.com/jdinh3))
+  If you have any questions about the repo, open an issue or contact me directly at jenny.p.dinh@gmail.com. You can find more of my work at (https://github.com/jdinh3))
 
   ## Credits
  https://github.com/jdinh3
